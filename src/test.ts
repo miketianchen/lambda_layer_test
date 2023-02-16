@@ -30,4 +30,4 @@ export class S3Example {
   }
 }
 
-export type TypeTest = "string";
+export type TypeTest = string;
